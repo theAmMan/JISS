@@ -6,16 +6,20 @@
 
 The Judicial Information System Software (JISS) is a program to be used by the judges, lawyers and 
 registrars to improve the efficiency in handling the court cases. 
+
 	-	JISS makes cases easy to handle for the registrars by making it easy to assign dates to each case, 	
 		search for pending cases on a given date etc, rather than going through a lot of physical documents to do the same.
+		
 	-	System also provides information related to the cases which have been resolved so that the judges 
 		can refer to them to improve their judgements and so that the lawyers can develop their line of arguments. 
+		
 	-	JISS aims to improve the case handling system of courts by replacing physical documents and papers,
 		which can sometimes be tedious to handle.
 
 # Contents
 
 The main folder contains several parts:
+
 	1.	Class Folder : It contains all the files related to classes used in the project.
 		-	Adjourment.py contains Adjourment class
 		-	Hearing.py contains Hearing class
@@ -42,6 +46,7 @@ The main folder contains several parts:
 # Instructions (How to run) :
 
 Follow the steps to run the Judiciary Information System :
+
 	1)	First run the CreateDatabase.py file to create a database in your system
 		-	It will ask for your password for your MySQL server
 		-	Also, check out Database.py in Databases folder. Change the password in it to your password
@@ -56,6 +61,7 @@ Follow the steps to run the Judiciary Information System :
 # Pre Requirements :
 
 Following pre requirements are must for this project :
+
 	1)	Internet connection and any web browser
 	2)	MySQL installed and activated, password of SQL server is required
 
