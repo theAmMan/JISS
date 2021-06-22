@@ -7,14 +7,14 @@
 The Judicial Information System Software (JISS) is a program to be used by the judges, lawyers and 
 registrars to improve the efficiency in handling the court cases. 
 
-	-	JISS makes cases easy to handle for the registrars by making it easy to assign dates to each case, 	
-		search for pending cases on a given date etc, rather than going through a lot of physical documents to do the same.
+	- JISS makes cases easy to handle for the registrars by making it easy to assign dates to each case, 	
+	search for pending cases on a given date etc, rather than going through a lot of physical documents to do the same.
 		
-	-	System also provides information related to the cases which have been resolved so that the judges 
-		can refer to them to improve their judgements and so that the lawyers can develop their line of arguments. 
+	- System also provides information related to the cases which have been resolved so that the judges 
+	can refer to them to improve their judgements and so that the lawyers can develop their line of arguments. 
 		
-	-	JISS aims to improve the case handling system of courts by replacing physical documents and papers,
-		which can sometimes be tedious to handle.
+	- JISS aims to improve the case handling system of courts by replacing physical documents and papers,
+	which can sometimes be tedious to handle.
 
 # Contents
 
